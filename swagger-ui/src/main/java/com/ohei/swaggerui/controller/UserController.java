@@ -1,4 +1,4 @@
-package com.ohei.swaggerui.Controller;
+package com.ohei.swaggerui.controller;
 
 import com.ohei.framework.bean.RespState;
 import com.ohei.swaggerui.model.User;
